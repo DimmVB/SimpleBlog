@@ -1,12 +1,12 @@
-/launch.json
-/settings.json
-/main.sublime-workspace
+launch.json
+settings.json
+main.sublime-workspace
 
-/assets/js/*
-!/assets/js/jquery-3.4.0.min.js
-!/assets/js/bootstrap.min.js
+assets/js/*
+!assets/js/jquery-3.4.0.min.js
+!assets/js/bootstrap.min.js
 
-/assets/scss/*
-/assets/css/*
-!/assets/css/bootstrap.min.css
-!/assets/css/style.css
+assets/scss/*
+assets/css/*
+!assets/css/bootstrap.min.css
+!assets/css/style.css
